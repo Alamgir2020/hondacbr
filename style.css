@@ -1,0 +1,32 @@
+#button {
+  background-color: #e76f51;
+  border-color: #e76f51;
+}
+
+#head-bg {
+  background-color: #264653;
+}
+
+.ash-text {
+  color: #e0e0e0;
+}
+
+.card-text {
+  color: #6c6c6c;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active-star {
+  color: #e77c41;
+}
+
+.deactive-star {
+  color: #e77c41;
+}
+
+.active-text {
+  color: #e76f52;
+}
