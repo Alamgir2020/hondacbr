@@ -30,3 +30,7 @@ a {
 .active-text {
   color: #e76f52;
 }
+
+.grayscale {
+  filter: grayscale(100%);
+}
